@@ -1,7 +1,6 @@
 # 🛠️ Lab 2 — LAMP Stack Installation (5 Marks)
 
-## ✔️ Student: <Your Name>
-## ✔️ Course: <Course Name>
+## ✔️ Student: Glenn Ngio
 ## ✔️ Lab: LAMP Stack
 
 ---

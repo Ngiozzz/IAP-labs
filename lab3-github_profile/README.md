@@ -1,7 +1,6 @@
 # Lab 3 — GitHub Profile (2 Marks)
 
-## ✔️ Student: <Your Name>
-## ✔️ Course: <Course Name>
+## ✔️ Student: Glenn Ngio
 ## ✔️ Lab: GitHub Profile
 
 ---

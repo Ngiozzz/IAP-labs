@@ -1,6 +1,6 @@
 # 🐧 Lab 1 — Linux Installatio
 
-## ✔️ Student: <Glenn Ngio>
+## ✔️ Student: Glenn Ngio
 ## ✔️ Lab: Linux Installation / Usage Evidence
 
 ---
